@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 200px;
+    background-color: rgba(143, 32, 32, 0.4);
+}
+.Opacity{
+    background-color: aqua;
+    opacity: 0.5;
+}

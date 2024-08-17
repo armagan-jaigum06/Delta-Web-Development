@@ -1,0 +1,47 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    /* transition-duration: 1s;
+    transition-delay: 1s; */
+    /* margin: 0 auto;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.2s;
+
+/* } 
+/*  div:hover{ */
+    /* background-color: black;
+    border-radius: 50%;
+    border: 5px dotted rgb(0, 255, 145); */
+    /* margin-top: 400px;
+    background-color: black;
+} */
+  
+/* Transaform */
+
+section{
+    margin-top: 100px;
+}
+div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: #76a874;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+div:nth-of-type(2n){
+    background-color: #f7db6a;
+}
+div:nth-of-type(3n){
+    background-color: #ebb02d;
+}
+
+/* start transform */
+#one{
+    transform: rotate(-45deg);
+}
+#two{
+    transform: scale(0.5, 1);
+}
