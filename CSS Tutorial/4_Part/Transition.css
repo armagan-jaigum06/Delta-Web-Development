@@ -30,6 +30,7 @@ div{
     border: 2px solid black;
     margin: 10px;
     padding: 10px;
+    margin-left: 50px;
 }
 div:nth-of-type(2n){
     background-color: #f7db6a;
@@ -40,8 +41,17 @@ div:nth-of-type(3n){
 
 /* start transform */
 #one{
-    transform: rotate(-45deg);
+    transform: rotate(15deg);
 }
 #two{
-    transform: scale(0.5, 1);
+    transform: scale(0.5);
+}
+#three{
+    transform: translate(100px);
+}
+#four{
+    transform: skew(30deg);
+}
+#five{
+    transform: rotate(30deg) translateX(100px);
 }
