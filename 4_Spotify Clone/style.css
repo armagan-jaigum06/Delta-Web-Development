@@ -274,3 +274,62 @@ a{
     border-radius: 50%;
     margin-top: -6px;
 }
+
+.album-controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.album-controls-icon{
+    height: 2rem;
+    margin-right: 1.75rem;
+    opacity: 0.8;
+}
+.album-img{
+    height: 2.5rem;
+    opacity: 1;
+    width: 3rem;
+    margin-left: 0.5rem;
+}
+
+.album-controls-icon:hover{
+    opacity: 1;
+}
+
+
+
+.album-name{
+    display: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.75rem;
+}
+
+.p1{
+    font-weight: 600;
+    
+}
+
+.p2{
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-bottom: 1rem;
+   
+}
+
+.controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.controls-icon{
+    height: 2rem;
+    margin-right: 1rem;
+    opacity: 0.8;
+}
+
+.controls-icon:hover{
+    opacity: 1;
+}
