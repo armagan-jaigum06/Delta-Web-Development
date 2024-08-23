@@ -179,6 +179,9 @@ a{
     margin-left: 1.5rem;
     margin-top: 1rem;
 }
+.card p{
+    line-height: 1.5rem;
+}
 
 .cards-container{
     display: flex;
@@ -304,10 +307,13 @@ a{
     justify-content: center;
     align-items: center;
     margin-right: 1.75rem;
+    line-height: 0.5rem;
 }
+
 
 .p1{
     font-weight: 600;
+    
     
 }
 
@@ -315,6 +321,8 @@ a{
     font-size: 0.85rem;
     opacity: 0.8;
     margin-bottom: 1rem;
+    line-height: 1rem;
+   
    
 }
 
