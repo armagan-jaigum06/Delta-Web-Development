@@ -59,7 +59,7 @@
 
 // 4. search country
 
-let url = "http://universities.hipolabs.com/search?name=";
+let url = "http://universities.hipolabs.com/search?country=";
 let btn = document.querySelector("button");
 
 btn.addEventListener("click", async () => {
@@ -91,3 +91,5 @@ async function getColleges(country) {
     return [];
   }
 }
+
+// 4. search college by state neme
