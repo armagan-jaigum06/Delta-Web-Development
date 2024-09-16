@@ -1,14 +1,13 @@
 {
-  "name": "1_backend",
+  "name": "nodejsdir",
   "version": "1.0.0",
-  "description": "By using Import Method modules not require",
-  "main": "math.js",
+  "description": "For Project we upload only package.json folder to gate the package \r select that folder in commad and type in terminal \r # npm install",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Armagan jaigum",
+  "author": "Armagan JAIGUM",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
     "random-words": "^2.0.1"
   }
