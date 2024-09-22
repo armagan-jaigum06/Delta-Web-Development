@@ -1,0 +1,57 @@
+h1 {
+  color: maroon;
+  margin-left: 15px;
+}
+.post {
+  background-color: rgb(211, 206, 197);
+  border: 2px solid black;
+  height: 150px;
+  width: 98%;
+  margin: 10px;
+}
+.user {
+  font-style: italic;
+  margin-left: 5px;
+  margin-top: 8px;
+}
+.content {
+  margin-left: 5px;
+}
+.new_post {
+  border: 2px solid rgb(206, 40, 40);
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  margin-left: 15px;
+}
+.see_more {
+  margin-left: 5px; /* show.ejs */
+}
+#btn_see_more {
+  color: red;
+  background-color: pink;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+.edit_post {
+  margin-left: 10px;
+}
+#btn_edit_post {
+  background-color: paleturquoise;
+  color: red;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+#btn_delete_post {
+  background-color: rgb(102, 119, 55);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  border: 2px solid black;
+}
+#delete_form {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+/* new ejs  */

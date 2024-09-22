@@ -61,5 +61,5 @@ class Teacher extends Person {
   }
 }
 
-let s1 = new Student("Hashmi", 25, 90)
-let t1 = new Teacher("abc", 35, "math")
+let s1 = new Student("Hashmi", 25, 90);
+let t1 = new Teacher("abc", 35, "math");
