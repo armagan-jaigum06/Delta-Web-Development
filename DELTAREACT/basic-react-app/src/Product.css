@@ -1,0 +1,22 @@
+.Product {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 0 10px 0 10px;
+  border-radius: 10px;
+}
+
+.InstaActivity {
+  border: 2px solid rgb(204, 24, 24);
+  margin-bottom: 10px;
+  border-radius: 10px;
+  margin-left: 15px;
+  width: 250px;
+  
+}
+
+.ProductTab {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
